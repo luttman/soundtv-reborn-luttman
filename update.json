@@ -1,18 +1,18 @@
 [
   {
-    "APK": "S0undTV_Reborn1.2.2-1440p-okhttp-proxy-v20-signed.apk",
-    "ReleaseDate": "2026-10-01T14:06:46.000Z",
+    "APK": "S0undTV_Reborn1.2.2-1440p-okhttp-proxy-v21-signed.apk",
+    "ReleaseDate": "2026-10-01T14:25:18.000Z",
     "ReleaseType": 0,
-    "VersionCode": 1020,
-    "VersionName": "v20",
+    "VersionCode": 1021,
+    "VersionName": "v21",
     "hasChangeLog": true
   },
   {
-    "APK": "S0undTV_Reborn1.2.2-1440p-okhttp-proxy-v20-signed.apk",
-    "ReleaseDate": "2026-10-01T14:06:46.000Z",
+    "APK": "S0undTV_Reborn1.2.2-1440p-okhttp-proxy-v21-signed.apk",
+    "ReleaseDate": "2026-10-01T14:25:18.000Z",
     "ReleaseType": 1,
-    "VersionCode": 1020,
-    "VersionName": "v20",
+    "VersionCode": 1021,
+    "VersionName": "v21",
     "hasChangeLog": true
   }
 ]
