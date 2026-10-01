@@ -1,3 +1,8 @@
+## v21 (2026.10.01)
+
+### Fixed
+- "Source" quality now picks the highest resolution Twitch offers (for example 1440p). It used to take the first stream in Twitch's list, which stopped at 1080p when the 1440p stream is listed later.
+
 ## v20 (2026.10.01)
 
 ### New
